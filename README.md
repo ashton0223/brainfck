@@ -1,2 +1,2 @@
 # brainfck
-A bf interpreter writtein in rust
+A bf interpreter written in in rust
